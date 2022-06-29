@@ -11,7 +11,7 @@ public class Main {
             result+=Integer.parseInt(s);
 
         }
-        return result;
+        return result / input.length;
     }
 }
 
